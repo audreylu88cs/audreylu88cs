@@ -2,7 +2,7 @@
 AI Engineer & Full-Stack Developer building intelligent systems for web and mobile.
 
 ### 🚀 About me
-Hi! I recently graduated from Rice University with a Master of Computer Science.
+Recent graduate of Rice University with a Master of Computer Science.
 
 ### 🛠️ Tech Stack
 **AI/ML:** PyTorch · TensorFlow · Keras · HuggingFace · OpenAI API · YOLOv8 · Vector DBs (FAISS)  
