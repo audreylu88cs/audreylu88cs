@@ -16,6 +16,5 @@ Recent graduate of Rice University with a Master of Computer Science.
 </p>
 
 ## 📫 Contact Info
-- 📨 alu@biatech.com
+- 📨 audreylu46@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/audreylu88)
-- 🌐 [biatech.com](https://www.biatech.com)
