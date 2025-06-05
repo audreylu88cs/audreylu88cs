@@ -17,7 +17,7 @@ Recent graduate of Rice University with a Master of Computer Science.
 **DevOps:** GitHub · Docker · AWS Lambda 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,ts,nodejs,react,nextjs,mongodb,postgres,angular" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,ts,nodejs,react,nextjs,mongodb,postgres,angular, unity" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,postman,figma" />
 </p>
 
