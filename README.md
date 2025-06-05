@@ -6,7 +6,7 @@ Recent graduate of Rice University with a Master of Computer Science.
 
 ### 🛠️Languages and Tools
 **AI/ML:** PyTorch · TensorFlow · Keras · HuggingFace · OpenAI API · YOLOv8 · Vector DBs (FAISS)  
-**Frontend:** React · React Native · Tailwind CSS · Angular · Node
+**Frontend:** React · React Native · Tailwind CSS · Angular · Node  
 **Backend:** PostgreSQL · Flask · MongoDB · FastAPI ·   
 **DevOps:** GitHub · Docker · AWS Lambda 
 
