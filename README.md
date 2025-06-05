@@ -12,7 +12,7 @@ Recent graduate of Rice University with a Master of Computer Science.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,ts,nodejs,react,nextjs,mongodb,postgres,angular" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,postman,figma" />
 </p>
 
 ### 📫 Contact Info
