@@ -16,5 +16,5 @@ Recent graduate of Rice University with a Master of Computer Science.
 </p>
 
 ## 📫 Contact Info
-- 📨 audreylu46@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/audreylu88)
+- audreylu46@gmail.com
+- [LinkedIn](https://linkedin.com/in/audreylu88)
