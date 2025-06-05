@@ -4,6 +4,11 @@ AI Engineer & Full-Stack Developer building intelligent systems for web and mobi
 ## 🚀 About me
 Recent graduate of Rice University with a Master of Computer Science.
 
+## 🚀 What I’m Working On
+- 🧠 Software Developer @ BiaTech – building AI for energy & transportation
+- 🧾 AI-powered PDF inspector with GPT-4o & FastAPI
+- 📱 React Native android apps for hands-free AI field inspection
+
 ## 🛠️Languages and Tools
 **AI/ML:** PyTorch · TensorFlow · Keras · HuggingFace · OpenAI API · YOLOv8 · Vector DBs (FAISS)  
 **Frontend:** React · React Native · Tailwind CSS · Angular · Node  
