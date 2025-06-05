@@ -1,5 +1,4 @@
-## 👋 Hi, I'm Audrey Lu 
-----
+# 👋 Hi, I'm Audrey Lu 
 AI Engineer & Full-Stack Developer building intelligent systems for web and mobile.
 
 ## 🚀 About me
